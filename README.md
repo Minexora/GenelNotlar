@@ -9,10 +9,10 @@ Tüm Yazılım Dillerinden Notlar
   with open('file path ve adı', 'dosya açama modu') as file:
     file.read()
   ```
-  - Pythonda dosya yazma
-    ```py
-    import os
+- Pythonda dosya yazma
+  ```py
+  import os
 
-    with open('file path ve adı', 'dosya açama modu') as file:
-      file.write('Yazılacak data')
+  with open('file path ve adı', 'dosya açama modu') as file:
+    file.write('Yazılacak data')
   ```
